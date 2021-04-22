@@ -1,2 +1,2 @@
-# Data_Science_Coursera_Capstone
-Data_Science_Coursera_Capstone
+# coursera_capstone
+Coursera Capstone Project
